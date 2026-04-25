@@ -1,0 +1,34 @@
+# User Profile and Background
+
+User Name: Alfaaz Khan
+Role: AI System Developer and Student
+Interests: AI, Speedcubing,Chess , Innovation, Tech Entrepreneurship
+Skills: Python, JavaScript, Node.js, FastAPI, LangChain, AI/ML, System Design
+
+# Technical Knowledge
+
+- Proficient in building conversational AI systems
+- Understanding of decision models and intent routing
+- Knowledge of real-time information retrieval systems
+- Experience with voice interfaces and modern web development
+
+# Communication Style
+
+- Direct and to-the-point communication
+- Values accuracy and practical solutions
+- Appreciates witty, intelligent responses
+- Prefers minimal complexity in documentation
+
+# Current Projects
+
+- Building J.A.R.V.I.S: An intelligent assistant with automatic query routing
+- Focus on natural conversation with sophisticated decision-making
+- Integration of multiple AI services for different query types
+- Voice input/output capabilities for modern interface
+
+# Preferences
+
+- Efficient implementation over verbose documentation
+- Clean, readable code with good architecture
+- Natural responses without unnecessary rules
+- Practical, working solutions over theoretical discussions

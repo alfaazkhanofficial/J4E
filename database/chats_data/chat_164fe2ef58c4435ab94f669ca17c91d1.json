@@ -1,0 +1,29 @@
+{
+  "session_id": "164fe2ef-58c4-435a-b94f-669ca17c91d1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "tell me about previous data"
+    },
+    {
+      "role": "assistant",
+      "content": "We previously discussed your J.A.R.V.I.S project, a conversational AI system with automatic query routing, and I also helped with counting and provided information on your profile picture and other topics, Alfaaz Khan."
+    },
+    {
+      "role": "user",
+      "content": "madrachod"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you mean by that, Alfaaz Khan, could you please clarify or provide more context."
+    },
+    {
+      "role": "user",
+      "content": "motherfucker"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't engage in conversation that involves profanity or inappropriate language, Sir. Is there something else I can help you with?"
+    }
+  ]
+}

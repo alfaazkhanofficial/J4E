@@ -1,0 +1,53 @@
+{
+  "session_id": "a82e924b-d0e5-4c05-af34-f59f9a71a0f1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open websites and apps, play music and videos, generate images, write content, and analyze camera images, Sir."
+    },
+    {
+      "role": "user",
+      "content": "what was the last thing we were talking about"
+    },
+    {
+      "role": "assistant",
+      "content": "We were discussing the content of a message for your subscribers, and then the conversation took a different turn, Alfaaz Khan, Sir."
+    },
+    {
+      "role": "user",
+      "content": "gana Baja Do"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm playing music for you, Sir."
+    },
+    {
+      "role": "user",
+      "content": "play music"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "100% Karte Hain"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "Jarvis open camera"
+    },
+    {
+      "role": "assistant",
+      "content": "Opening the webcam for you."
+    }
+  ]
+}

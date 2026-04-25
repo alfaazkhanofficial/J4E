@@ -1,0 +1,21 @@
+{
+  "session_id": "38bfac50-1322-4aeb-b30f-d1a59803ccfc",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Open YouTube for me"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you."
+    },
+    {
+      "role": "user",
+      "content": "who is a iran presifenbt"
+    },
+    {
+      "role": "assistant",
+      "content": "The current president of Iran is Ebrahim Raisi, who succeeded Hassan Rouhani after winning the presidential election."
+    }
+  ]
+}

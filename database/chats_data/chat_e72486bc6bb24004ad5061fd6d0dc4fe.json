@@ -1,0 +1,13 @@
+{
+  "session_id": "e72486bc-6bb2-4004-ad50-61fd6d0dc4fe",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open websites and apps, play music and videos, generate images, write content, and search Google and YouTube. I can also analyze camera images and provide information based on what I see."
+    }
+  ]
+}
